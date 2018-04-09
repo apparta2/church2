@@ -2082,10 +2082,12 @@ body {
 }
 .cid-qNvdbnlrK4 .plan-title {
   margin-top: 1.4rem;
+  text-align: center;
 }
 .cid-qNvdbnlrK4 .price-figure {
   font-weight: 700;
   color: #232323;
+  text-align: center;
 }
 @media (max-width: 550px) {
   .cid-qNvdbnlrK4 .price-figure {
@@ -2098,6 +2100,9 @@ body {
 }
 .cid-qNvdbnlrK4 hr {
   margin: 2rem 0;
+}
+.cid-qNvdbnlrK4 P {
+  text-align: center;
 }
 .cid-qNv2FMEdqh {
   padding-top: 0px;
